@@ -1,2 +1,2 @@
-# ACA2021-Example
+# ACA2021-Examp
 An Example for Academic Writing, Norms, and Ethics
